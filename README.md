@@ -1,7 +1,3 @@
-Perfect! Here’s a polished and **aesthetically written README** for your **Hostel Food Delivery Website — “Foodhood”** 🍽️✨
-
----
-
 # 🍱 **Foodhood — Your Hostel Food Delivery Partner**
 
 **Foodhood** is a modern, student-friendly web platform designed to make hostel food delivery **fast, easy, and convenient**. Whether you’re craving a late-night snack or a full-course meal, Foodhood connects hostel students with local vendors — all from the comfort of their rooms.
